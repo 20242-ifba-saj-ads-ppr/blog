@@ -12,7 +12,7 @@ order: 4
 
 Adaptado de [^JoaoRobertoSOLID].
 
-<!-- @include: ../../includes/SOLID.md -->
+<!-- @include: ../../../includes/SOLID.md -->
 
 
 ## Princípio Aberto-Fechado (OCP)
@@ -227,4 +227,4 @@ O Princípio do Aberto/Fechado nos atenta para a aplicação de abstrações e p
 
 ## Referências
 
-<!-- @include: ../../includes/bib.md -->
+<!-- @include: ../../../includes/bib.md -->

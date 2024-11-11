@@ -12,7 +12,7 @@ order: 7
 
 Adaptado de [^JoaoRobertoSOLID].
 
-<!-- @include: ../../includes/SOLID.md -->
+<!-- @include: ../../../includes/SOLID.md -->
 
 
 ## Princípio da Inversão de Dependência (DIP)
@@ -132,4 +132,4 @@ Outras opções são de CDI em java são:
 
 ## Referências
 
-<!-- @include: ../../includes/bib.md -->
+<!-- @include: ../../../includes/bib.md -->

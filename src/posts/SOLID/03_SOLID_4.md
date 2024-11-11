@@ -12,7 +12,7 @@ order: 6
 
 Adaptado de [^JoaoRobertoSOLID].
 
-<!-- @include: ../../includes/SOLID.md -->
+<!-- @include: ../../../includes/SOLID.md -->
 
 ## Princípio da Segregação de Interface (ISP)
 
@@ -122,4 +122,4 @@ Agora temos interfaces específicas `Pedido` e `PagamentoCartao`, e, nenhuma cla
 
 ## Referências
 
-<!-- @include: ../../includes/bib.md -->
+<!-- @include: ../../../includes/bib.md -->

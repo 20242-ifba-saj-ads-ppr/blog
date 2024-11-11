@@ -1563,17 +1563,17 @@ interface Usuario
 </figure>
 
 
-Agora, conseguimos definir o que o método autentica() deve receber como parâmetro para trabalhar tanto com gerentes quanto com empresas. Ele deve receber um parâmetro do tipo Usuario.
+Agora, conseguimos definir o que o método `autentica()` deve receber como parâmetro para trabalhar tanto com gerentes quanto com empresas. Ele deve receber um parâmetro do tipo Usuario.
 
 
-@[code](../code/poo/Usuario.java)
-@[code](../code/poo/Cliente.java)
-@[code](../code/poo/PessoaFisica.java)
-@[code](../code/poo/PessoaJuridica.java)
-@[code](../code/poo/Funcionario.java)
-@[code](../code/poo/Gerente.java)
-@[code](../code/poo/Seguranca.java)
-@[code](../code/poo/AutenticadorDeUsuario.java)
+@[code](./code/poo/Usuario.java)
+@[code](./code/poo/Cliente.java)
+@[code](./code/poo/PessoaFisica.java)
+@[code](./code/poo/PessoaJuridica.java)
+@[code](./code/poo/Funcionario.java)
+@[code](./code/poo/Gerente.java)
+@[code](./code/poo/Seguranca.java)
+@[code](./code/poo/AutenticadorDeUsuario.java)
 
 
 ###### Mais sobre herança e interface

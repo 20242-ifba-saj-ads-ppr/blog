@@ -12,7 +12,7 @@ order: 3
 
 Adaptado de [^JoaoRobertoSOLID].
 
-<!-- @include: ../../includes/SOLID.md -->
+<!-- @include: ../../../includes/SOLID.md -->
 
 ## Princípio da Responsabilidade Única (SRP)
 
@@ -153,4 +153,4 @@ O SRP é um dos princípios mais importantes que existe na orientação a objeto
 
 ## Referências
 
-<!-- @include: ../../includes/bib.md -->
+<!-- @include: ../../../includes/bib.md -->

@@ -12,7 +12,7 @@ order: 5
 
 Adaptado de [^JoaoRobertoSOLID].
 
-<!-- @include: ../../includes/SOLID.md -->
+<!-- @include: ../../../includes/SOLID.md -->
 
 
 ## Princípio da substituição de Liskov
@@ -45,4 +45,4 @@ Se para cada objeto `o1` do tipo `S` há um objeto `o2` do tipo `T` de forma que
 
 ## Referências
 
-<!-- @include: ../../includes/bib.md -->
+<!-- @include: ../../../includes/bib.md -->
