@@ -27,6 +27,19 @@ Por exemplo, imagine que um programa possui uma classe `Forma` que representa a 
 
 Imagine agora que o sistema possui uma classe `Circulo` e essa classe não faça parte da família `Forma`. Durante a execução do programa o comportamento de `Circulo` é muito semelhante aos dos filhos de `Forma`. `Circulo` pode ser desenhado na tela, ter suas características de tamanho e cor alteradas e ter uma formula para o calculo de area. Assim como os objetos da família `Forma`.
 
+<figure>
+
+```plantuml
+@startuml
+class Forma
+class Retângulo extends Forma
+class Triângulo extends Forma
+class Circulo
+@enduml  
+```
+
+<figcaption> UML da família de  Forma.</figcaption>
+</figure>
 ### Definição
 
 O Princípio de Substituição de Liskov leva esse nome por ter sido criado por Barbara Liskov, em 1988. A definição formal de Liskov diz que:

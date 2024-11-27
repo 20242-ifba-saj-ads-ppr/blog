@@ -1,5 +1,5 @@
 
-## Princípios SOLID - Princípio da Responsabilidade Única (SRP)
+## Princípios SOLID
 
 Adaptado de [^JoaoRobertoSOLID].
 
