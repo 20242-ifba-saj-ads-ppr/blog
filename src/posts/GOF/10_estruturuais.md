@@ -42,22 +42,22 @@ O [Decorator] descreve como acrescentar dinamicamente responsabilidades ao objet
 
 ## Entrega
 
-[Link](https://classroom.github.com/a/hKgAqwgp)
+
 
 | Padrão           | Aluno                                                                                  |
 | ---------------- | -------------------------------------------------------------------------------------- |
-| Adapter          | <ul><li>Árlei Nóbrega Oliveira ✅</li><li>Salvador Cerqueira Júnior✅</li></ul>             |
-| Bridge           | <ul><li>Brenda Gabriela Martinez Araújo ✅</li><li>Yuri Pêpe do Espírito Santo✅</li></ul> |
-| Composite        | <ul><li>Gabriel Ferreira Lima Brito  ✅</li></ul>                                         |
-| Decorator        | <ul><li>Gabriel Moreira Bispo Santos</li></ul>                                         |
-| Facade           | <ul><li>Guilherme Sampaio Oliveira✅</li></ul>                                           |
-| Front Controller | <ul><li>João Augusto Moura Peixoto De Jesus✅</li><li>Rian Silva da Fonseca</li></ul>    |
-| Flyweight        | <ul><li>Luis Miguel De Jesus Oliveira ✅</li></ul>                                        |
-| Proxy            | <ul><li>Pedro Carlos de Gois Barros Santos✅</li></ul>                                   |
+| Adapter          | |
+| Bridge           | |
+| Composite        | |
+| Decorator        | |
+| Facade           | |
+| Front Controller | |
+| Flyweight        | |
+| Proxy            | |
 
 
 
 
 ## Referências
 
-<!-- @include: ../../includes/bib.md -->
+<!-- @include: ../../../includes/bib.md -->
