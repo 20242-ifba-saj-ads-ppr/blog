@@ -78,8 +78,4 @@ O processo de avaliação dar-se-á ao longo do desenvolvimento da disciplina. C
 - SHVETS, Alexander. **Dive Into Design Patterns.** (https://refactoring.guru/pt-br/design-patterns)
 - SPRING FRAMEWORK. **Gang of Four Design Patterns**(https://springframework.guru/gang-of-four-design-patterns/)
 
-
-https://martinfowler.com/eaaCatalog/
-
-
-https://github.com/ropalma/ICMC-USP/blob/master/Book%20-%20Padr%C3%B5es%20de%20Projeto%20-%20Soluc%C3%B5es%20Reutiliz%C3%A1veis%20de%20Software%20Orientado%20a%20Objetos.pdf
+- FOWLER, Martin. **Patterns of enterprise application architecture**. Boston: Addison-Wesley, 2002. Disponível em: <https://martinfowler.com/eaaCatalog/>.
