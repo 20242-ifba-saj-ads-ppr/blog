@@ -37,6 +37,7 @@ Algumas vezes, os padrões de criação competem entre si. Por exemplo, há caso
 
 ## Entrega
 
+https://classroom.github.com/a/UvzdJrKi
 
 
 | Padrão                                       | Aluno                                                                                                                    |
