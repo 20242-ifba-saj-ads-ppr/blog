@@ -45,8 +45,8 @@ https://classroom.github.com/a/UvzdJrKi
 | Factory Method                               | Leandro|
 | [Abstract Factory](https://github.com/20242-ifba-saj-ads-ppr/seminario-ppr-criacional-abstractfactory)                             | <ul> <li>Antônio Salgueiro Fernandes Neto (20222TADSSAJ0005)</li> <li>Kaio Sande Tavares (20222TADSSAJ0032)</li> <li>Tauynd Julia Silva Menezes (20222TADSSAJ0023)</li> </ul>|
 | [Builder](https://github.com/20242-ifba-saj-ads-ppr/seminario-ppr-criacional-builder)                                      | <ul> <li>Adriano Victor Nascimento Ribeiro (20222TADSSAJ0024)</li> <li>Rafhael da Silva Oliveira (20222TADSSAJ0026)</li> <li>Pedro Victor Hipólito Cabral (20222TADSSAJ0010)</li> </ul>|
-| Prototype                                    | <ul> <li>Rafael Borges Magalhães (20221TADSSAJ0019)</li> <li>Gustavo Vitor Oliveira de Andrade (20221TADSSAJ0003)</li> <li>Jaqueline Lima Andrade (20221TADSSAJ0007)</li> </ul>|
-| <ul><li>Singleton</li><li>Multiton</li></ul> | <ul> <li>Jabes da Silva Cajazeira (20192TADSSAJ0014)</li> <li>Luis Guilherme Passos Ramos (20222TADSSAJ0015)</li> <li>Nathaly de Jesus Brito (20222TADSSAJ0025)</li> </ul>|
+| [Prototype](https://github.com/20242-ifba-saj-ads-ppr/seminario-ppr-criacional-prototype)                                    | <ul> <li>Rafael Borges Magalhães (20221TADSSAJ0019)</li> <li>Gustavo Vitor Oliveira de Andrade (20221TADSSAJ0003)</li> <li>Jaqueline Lima Andrade (20221TADSSAJ0007)</li> </ul>|
+| <ul><li>[Singleton](https://github.com/20242-ifba-saj-ads-ppr/seminario-ppr-criacional-singleton-multiton)</li><li>Multiton</li></ul> | <ul> <li>Jabes da Silva Cajazeira (20192TADSSAJ0014)</li> <li>Luis Guilherme Passos Ramos (20222TADSSAJ0015)</li> <li>Nathaly de Jesus Brito (20222TADSSAJ0025)</li> </ul>|
 | [Object Pool](https://github.com/20242-ifba-saj-ads-ppr/seminario-ppr-criacional-object-pool)                                  | <ul> <li>Filipe Ribeiro de Almeida Silva (20222TADSSAJ0004)</li> <li>Matheus Lima Brazil Parenti (20221TADSSAJ0013)</li> <li>Isaque Lima da Silva (20221TADSSAJ0010)</li> </ul> |
 
 ## Referências
