@@ -5,6 +5,7 @@ tag:
   - GOF
 category:
   - aula
+  - entrega
 #navbar: false
 order: 10
 ---
@@ -42,23 +43,23 @@ O [Decorator] descreve como acrescentar dinamicamente responsabilidades ao objet
 
 ## Entrega
 
+Todas as equipes devem clicar no link do padrão de projeto para fazer as entregas. A equipe nominada (nomes listados ao lado do padrão) deve elaborar a apresentação do padrão. As outras equipes devem entregar dois exemplos da aplicação do padrão. De preferencia em um ambiente de um sistema WEB.
+
+| Padrão                                                      | Aluno                                                                                                                                                                           |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Adapter](https://classroom.github.com/a/EXqSqCf7)          |                                                                                                                                                                                 |
+| [Bridge](https://classroom.github.com/a/7tokV-5k)           |                                                                                                                                                                                 |
+| [Composite](https://classroom.github.com/a/vn_g22mV)        |                                                                                                                                                                                 |
+| [Decorator](https://classroom.github.com/a/4O19gzRX)        |                                                                                                                                                                                 |
+| [Facade](https://classroom.github.com/a/kWHq9eTQ)           |                                                                                                                                                                                 |
+| [Flyweight](https://classroom.github.com/a/r5O1mo2g)        | <ul> <li>Filipe Ribeiro de Almeida Silva (20222TADSSAJ0004)</li> <li>Matheus Lima Brazil Parenti (20221TADSSAJ0013)</li> <li>Isaque Lima da Silva (20221TADSSAJ0010)</li> </ul> |
+| [Front Controller](https://classroom.github.com/a/NraV0OUb) |                                                                                                                                                                                 |
+| [Proxy](https://classroom.github.com/a/k8V-HMK1)            |                                                                                                                                                                                 |
 
 
-| Padrão           | Aluno                                                                                  |
-| ---------------- | -------------------------------------------------------------------------------------- |
-| *Adapter          | |
-| *Composite        | |
-| *Facade           | |
-| *Flyweight        | <ul> <li>Filipe Ribeiro de Almeida Silva (20222TADSSAJ0004)</li> <li>Matheus Lima Brazil Parenti (20221TADSSAJ0013)</li> <li>Isaque Lima da Silva (20221TADSSAJ0010)</li> </ul> |
-| *Proxy            | |
-| Bridge           | |
-| Decorator        | |
-| Front Controller | |
-
-
-
-[entrega](https://classroom.github.com/a/7Ik9FOjx)
 
 ## Referências
 
 <!-- @include: ../../../includes/bib.md -->
+
+
