@@ -46,17 +46,18 @@ O [Decorator] descreve como acrescentar dinamicamente responsabilidades ao objet
 
 | Padrão           | Aluno                                                                                  |
 | ---------------- | -------------------------------------------------------------------------------------- |
-| Adapter          | |
+| *Adapter          | |
+| *Composite        | |
+| *Facade           | |
+| *Flyweight        | <ul> <li>Filipe Ribeiro de Almeida Silva (20222TADSSAJ0004)</li> <li>Matheus Lima Brazil Parenti (20221TADSSAJ0013)</li> <li>Isaque Lima da Silva (20221TADSSAJ0010)</li> </ul> |
+| *Proxy            | |
 | Bridge           | |
-| Composite        | |
 | Decorator        | |
-| Facade           | |
 | Front Controller | |
-| Flyweight        | |
-| Proxy            | |
 
 
 
+[entrega](https://classroom.github.com/a/7Ik9FOjx)
 
 ## Referências
 
