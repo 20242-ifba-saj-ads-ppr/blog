@@ -71,14 +71,14 @@ Todas as equipes devem clicar no link do padrão de projeto para fazer as entreg
 | [Front Controller](https://classroom.github.com/a/NraV0OUb) | <ul> <li>Jabes da Silva Cajazeira (20192TADSSAJ0014)</li> <li>Luis Guilherme Passos Ramos (20222TADSSAJ0015)</li> <li>Nathaly de Jesus Brito (20222TADSSAJ0025)</li> </ul>              |
 | [Proxy](https://classroom.github.com/a/k8V-HMK1)            | <ul> <li>Rafael Borges Magalhães (20221TADSSAJ0019)</li> <li>Gustavo Vitor Oliveira de Andrade (20221TADSSAJ0003)</li> <li>Jaqueline Lima Andrade (20221TADSSAJ0007)</li> </ul>         |
 
-## Estutura da entrega
+## Estrutura da entrega
 
 A entrega deve seguir a seguinte estrutura:
 
 - Intenção do padrão
 - Motivação (Cenário onde existe um problema para ser resolvido)
 - UML do cenário (Situação antes da aplicação do padrão)
-- UML da estrtura do padrão (GOF)
+- UML da estrutura do padrão (GOF)
 - UML e código após a refatoração fazendo referencia a estrutura (papeis) definidos no GOF
 
 ## Referências
