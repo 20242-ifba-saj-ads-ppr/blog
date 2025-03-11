@@ -76,6 +76,14 @@ end note
 </figure>
 
 ## Participantes
+- Component
+  - define a interface para objetos que podem ter responsabilidades acrescenta das aos mesmos dinamicamente.
+- ConcreteComponent 
+  - define um objeto para o qual responsabilidades adicionais podem ser atribuídas.
+- Decorator
+  - mantém uma referência para um objeto Component e define uma interface que segue a interface de Component.
+- ConcreteDecorator 
+  - acrescenta responsabilidades ao componente.
 
 ## Referências
 
