@@ -393,9 +393,9 @@ ObjectWindows utiliza objetos Validator para encapsular estratégias de validaç
 
 ## Padrão relacionados
 
-[Flyweight](Flyweight.md): objetos Strategy geralmente são bons flyweights.
+Flyweight: objetos Strategy geralmente são bons flyweights.
 
 
 ## Referências
 
-<!-- @include: ../../../includes/bib.md -->
+<!-- @include: ../../../../includes/bib.md -->
