@@ -2,8 +2,8 @@
 skinparam linetype ortho
 
 
-class Component {
-  + operation(): void
+abstract class Component {
+  + {abstract} operation(): void
 }
 class ConcreteComponent extends Component { 
   + operation(): void
