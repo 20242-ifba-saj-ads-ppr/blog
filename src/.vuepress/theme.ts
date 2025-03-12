@@ -11,6 +11,8 @@ export default hopeTheme({
     url: "https://github.com/leandro-costa",
   },
 
+  copyright: false,
+
   lastUpdated: false,
   contributors: false,
 

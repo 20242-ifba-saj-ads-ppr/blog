@@ -49,6 +49,8 @@ https://classroom.github.com/a/UvzdJrKi
 | <ul><li>[Singleton](https://github.com/20242-ifba-saj-ads-ppr/seminario-ppr-criacional-singleton-multiton)</li><li>Multiton</li></ul> | <ul> <li>Jabes da Silva Cajazeira (20192TADSSAJ0014)</li> <li>Luis Guilherme Passos Ramos (20222TADSSAJ0015)</li> <li>Nathaly de Jesus Brito (20222TADSSAJ0025)</li> </ul>              |
 | [Object Pool](https://github.com/20242-ifba-saj-ads-ppr/seminario-ppr-criacional-object-pool)                                         | <ul> <li>Filipe Ribeiro de Almeida Silva (20222TADSSAJ0004)</li> <li>Matheus Lima Brazil Parenti (20221TADSSAJ0013)</li> <li>Isaque Lima da Silva (20221TADSSAJ0010)</li> </ul>         |
 
+: Lista de padrões de criação e responsáveis
+
 ## Referências
 
 <!-- @include: ../../../includes/bib.md -->

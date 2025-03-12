@@ -1,4 +1,5 @@
 ---
+article: false
 index: false
 dir:
   icon: gear
