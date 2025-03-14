@@ -22,6 +22,10 @@ Facade define uma interface de nível mais alto que torna o subsistema mais fác
 
 ## Motivação
 
+Apresenta uma situação em que o padrão de projeto Facade pode ser aplicado. O padrão Facade fornece uma interface unificada para um conjunto de interfaces em um subsistema, tornando o subsistema mais fácil de ser usado.
+
+
+
 ## Estrutura
 
 <figure>
