@@ -13,7 +13,7 @@ excerpt: Apresentação do Framework para o desenvolvimento de jogos de tabuleir
 
 #  (Template para)  Framework para o desenvolvimento de jogos de tabuleiro
 
-Elaborar um framework, utilizando os padrões de projetos vistos na disciplina, para a construção de um jogo de tabuleiro nos moldes de [JogoSelva](https://brainking.com/pt/GameRules?tp=56).
+Elaborar um framework, com no mínimo 12 dos padrões de projetos vistos na disciplina (com no mínimo 3 de cada grupo), para a construção de um jogo de tabuleiro nos moldes de [JogoSelva](https://brainking.com/pt/GameRules?tp=56).
 
 Modelo de introdução de padrões no framework
 
