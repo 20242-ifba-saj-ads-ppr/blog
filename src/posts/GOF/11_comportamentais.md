@@ -38,22 +38,24 @@ Outros padrões comportamentais de objetos se preocupam com o encapsulamento de 
 
 | Padrão                  | Aluno                                                   |
 | ----------------------- | ------------------------------------------------------- |
-| Chain of Responsibility | |
-| Interpreter             | |
-| Memento                 | |
-| Command                 | |
-| Iterator                | |
-| Mediator                | |
-| Observer                | |
-| State                   | |
-| Strategy                | |
-| Template Method         | |
-| Visitor                 | |
+| Chain of Responsibility | <ul> <li>Adriano Victor Nascimento Ribeiro (20222TADSSAJ0024)</li> <li>Rafhael da Silva Oliveira (20222TADSSAJ0026)</li> <li>Pedro Victor Hipólito Cabral (20222TADSSAJ0010)</li> </ul> |
+| Interpreter             | <ul> <li>Antônio Salgueiro Fernandes Neto (20222TADSSAJ0005)</li> <li>Kaio Sande Tavares (20222TADSSAJ0032)</li> <li>Tauynd Julia Silva Menezes (20222TADSSAJ0023)</li> </ul>           |
+| Memento                 | <ul> <li>Filipe Ribeiro de Almeida Silva (20222TADSSAJ0004)</li> <li>Matheus Lima Brazil Parenti (20221TADSSAJ0013)</li> <li>Isaque Lima da Silva (20221TADSSAJ0010)</li> </ul>         |
+| Command                 | <ul> <li>Jabes da Silva Cajazeira (20192TADSSAJ0014)</li> <li>Luis Guilherme Passos Ramos (20222TADSSAJ0015)</li> <li>Nathaly de Jesus Brito (20222TADSSAJ0025)</li> </ul>              |
+| Iterator                | <ul> <li>Rafael Borges Magalhães (20221TADSSAJ0019)</li> <li>Gustavo Vitor Oliveira de Andrade (20221TADSSAJ0003)</li> <li>Jaqueline Lima Andrade (20221TADSSAJ0007)</li> </ul>         |
+| Mediator                | <ul> <li>Adriano Victor Nascimento Ribeiro (20222TADSSAJ0024)</li> <li>Rafhael da Silva Oliveira (20222TADSSAJ0026)</li> <li>Pedro Victor Hipólito Cabral (20222TADSSAJ0010)</li> </ul> |
+| Observer                | <ul> <li>Antônio Salgueiro Fernandes Neto (20222TADSSAJ0005)</li> <li>Kaio Sande Tavares (20222TADSSAJ0032)</li> <li>Tauynd Julia Silva Menezes (20222TADSSAJ0023)</li> </ul>           |
+| State                   | <ul> <li>Filipe Ribeiro de Almeida Silva (20222TADSSAJ0004)</li> <li>Matheus Lima Brazil Parenti (20221TADSSAJ0013)</li> <li>Isaque Lima da Silva (20221TADSSAJ0010)</li> </ul>         |
+| Strategy                |                                                                                                                                                                                         |
+| Template Method         | <ul> <li>Jabes da Silva Cajazeira (20192TADSSAJ0014)</li> <li>Luis Guilherme Passos Ramos (20222TADSSAJ0015)</li> <li>Nathaly de Jesus Brito (20222TADSSAJ0025)</li> </ul>              |
+| Visitor                 | <ul> <li>Rafael Borges Magalhães (20221TADSSAJ0019)</li> <li>Gustavo Vitor Oliveira de Andrade (20221TADSSAJ0003)</li> <li>Jaqueline Lima Andrade (20221TADSSAJ0007)</li> </ul>         |
 
 
 
 ## Entrega
 
+
+[link](https://classroom.github.com/a/i1yS8t-6)
 
 
 
